@@ -1,4 +1,4 @@
-#encoding: UTF-8
+# -*- encoding : utf-8 -*-
 Gem::Specification.new do |s|
   s.name          = "queue_classic"
   s.email         = "ryan@heroku.com"
